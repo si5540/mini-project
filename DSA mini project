@@ -1,0 +1,15 @@
+about the project
+spin and win in games which utilises arrays
+In this game we implemented arrays ds and used some mathematical concepts.
+
+To build this game we used the 'Phaser' Framework.
+
+Logics and Concepts implemented in this game:
+
+GameLoop in Phaser
+Adding Images
+Animations
+Arrays
+Mathematical concepts
+Adding Music
+OOPs
